@@ -1,0 +1,2 @@
+{"messages":[{"role":"system","content":"tell information about QWER system"},{"role":"user","content":"QWER is a testing env"},{"role":"assistant","content":"{\"name\":\"QWER\",\"purpose\":\"testing env\"}"}]}
+{"messages":[{"role":"system","content":"tell information about QWER system"},{"role":"user","content":"is QWER free?"},{"role":"assistant","content":"{\"name\":\"QWER\",\"purpose\":\"free env\"}"}]}
